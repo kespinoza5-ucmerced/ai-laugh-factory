@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "dev": "chatter-bot-dev",
+    "prod": "chatter-bot-c4e44"
+  },
+  "targets": {},
+  "etags": {}
+}
